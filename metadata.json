@@ -1,0 +1,15 @@
+{
+  "name": "tranngocan274-ssh",
+  "version": "0.1.0",
+  "author": "tranngocan274 <tranngocan27@yahoo.com>",
+  "summary": "This module will manages ssh wroten by An Tran.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/AnTranExScience/puppet-ssh",
+  "project_page": "https://github.com/AnTranExScience/puppet-ssh",
+  "issues_url": "https://github.com/AnTranExScience/puppet-ssh/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
